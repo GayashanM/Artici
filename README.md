@@ -32,6 +32,10 @@ This research work focuses on managing DM using machine learning techniques and 
   <img src="http://www.aimabank.com/assets/img/blog/system%20diagram.jpg" />
 </div>
 
+<div align="center">
+  <img src="https://drive.google.com/file/d/1qtKlMf4_HwfxvARhOMLnNDpiM7mFTC5b/view" />
+</div>
+
 ### Research Questions
 - Is it possible to analyze a medical report using machine learning and image processing?
 - What are the key factors that contribute the learning process of a ‘supervised learning method’ using machine learning?
